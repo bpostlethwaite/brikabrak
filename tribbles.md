@@ -1,5 +1,5 @@
 # TRIBBELS
 
 testing ... testing ...
-ZFFF ZZFZZ FFFFZ
+ZFFZ ZZFZZ ZFFFZ
 testing ... testing ...
