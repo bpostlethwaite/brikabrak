@@ -1,5 +1,5 @@
 # TRIBBELS
 
 testing ... testing ...
-ZFFZ ZZFZZ ZFFFZ
+_don't eat them_
 testing ... testing ...
