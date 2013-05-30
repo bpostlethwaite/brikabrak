@@ -1,5 +1,7 @@
 # TRIBBELS
 
 testing ... testing ...
-FANATIC FUZZY FUN!!!!
+
+_FANATIC FUZZY FUN_
+
 testing ... testing ...
