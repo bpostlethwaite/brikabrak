@@ -2,6 +2,6 @@
 
 testing ... testing ...
 
-_FANATIC FUZZY FUN_
+_don't eat them_
 
 testing ... testing ...
